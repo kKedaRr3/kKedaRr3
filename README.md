@@ -6,8 +6,7 @@ I enjoy programming and building smart solutions to real-world problems. I'm esp
 ### 📧 Contact Me
 
 [![Gmail](https://img.shields.io/badge/Gmail-DB4437?style=for-the-badge&logo=gmail&logoColor=white)](mailto:radek.barszczak@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rados%C5%82aw-barszczak-825b88333/)
 ### Github Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=kKedaRr3&show_icons=true&theme=radical) 
 
